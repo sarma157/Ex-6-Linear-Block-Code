@@ -83,8 +83,10 @@ print("Error Vector :", " ".join(map(str, error)))
 corrected = np.mod(r + error, 2)
 print("Corrected Codeword :", " ".join(map(str, corrected)))
 ```
+
 ## OUTPUT WAVEFORM:
 <img width="1098" height="608" alt="image" src="https://github.com/user-attachments/assets/e7d1f65c-0f65-477a-a80b-6b7d3d5c1dee" />
+
 
 ## RESULT:
 Thus, Linear Block Code operation for the given input is successfully verified.
